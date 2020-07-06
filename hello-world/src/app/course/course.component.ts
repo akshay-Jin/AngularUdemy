@@ -10,7 +10,7 @@ export class CourseComponent implements OnInit {
   text=`
     asd a s as as dasd asvvvvvvvvvvvvvvvvadasdad asd as  ad a asdas asd a s as as dasd asadasdad
      asd as  ad a asdasasd a s as as dasd asadasdad asd as  ad a asdasasd a s as as dasd asadasdad asd 
-     as  ad a asdasasd a s as as dasd asadasdad asd as  ad a asdasasd a s as as dasd asadasdad asd as  ad a asdas
+     as  ad a asdasasd a s as as dasd bbbasadasdad asd as  ad a asdasasd a s as as dasd asadasdad asd as  ad a asdas
   `
   constructor() { }
 
